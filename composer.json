@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "scy\\HiLink\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7",
+        "ext-simplexml": "*",
+        "guzzlehttp/guzzle": "^6.0"
+    }
+}
